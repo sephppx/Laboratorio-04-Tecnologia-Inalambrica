@@ -103,8 +103,6 @@ El archivo Excel utilizado para almacenar y procesar las mediciones se encuentra
 
 Este archivo contiene los datos experimentales y los cálculos utilizados para obtener los resultados presentados en el informe.
 
-> El archivo temporal `~$Lab4_Ensombrecimiento.xlsx` es generado automáticamente por Excel y no debe incluirse en el repositorio.
-
 ---
 
 ## Informe
